@@ -19,7 +19,7 @@ Simple Voting Web3 is a modern web application that leverages blockchain technol
 ## Installation
 
 - Clone https://github.com/Rizki36/simple-voting-web3-client
-- Clone https://github.com/Rizki36/simple-voting-web3-hardhat
+- Clone https://github.com/Rizki36/simple-voting-web3-onchain
 - Follow the instructions in the readme in each repository
 
 ## Preview
