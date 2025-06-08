@@ -23,6 +23,11 @@ Simple Voting Web3 is a modern web application that leverages blockchain technol
 - Follow the instructions in the readme in each repository
 
 ## Preview
+
+<details>
+
+<summary>Click to see</summary>
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/56323978-9280-4116-95cd-c8727a00ed83" />
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/8979059c-686e-4a7e-bac1-52e06f22838e" />
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/a5d9bc28-ae0f-4135-b18f-a1984101d066" />
@@ -30,6 +35,8 @@ Simple Voting Web3 is a modern web application that leverages blockchain technol
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/8d9a914c-3b57-4838-8f4d-a48387c5ad6a" />
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/0af506b6-6528-4b2f-8579-3e2a494ffd33" />
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e2e9c7cd-8ed5-4514-9f85-40b931baa20f" />
+
+</details>
 
 ## Acknowledgments
 
